@@ -7,4 +7,7 @@
  ## 24-03-2026
 - Aptitude practice questions
 
+ ## 25-03-2026
+- Aptitude practice questions
+- Python questions
  
