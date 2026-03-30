@@ -26,3 +26,7 @@
  ## 29-03-2026
 - Verbal Ability practice questions
 - Python questions
+
+ ## 30-03-2026
+- Aptitude practice questions
+- Python questions
