@@ -30,3 +30,9 @@
  ## 30-03-2026
 - Aptitude practice questions
 - Python questions
+
+ ## 31-03-2026
+- Aptitude practice questions
+- Verbal Ability practice questions
+- Python questions
+- Revision 
