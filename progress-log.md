@@ -36,3 +36,6 @@
 - Verbal Ability practice questions
 - Python questions
 - Revision 
+
+## 01-04-2026
+- TCS NQT EXAM 
