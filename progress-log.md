@@ -39,3 +39,6 @@
 
 ## 01-04-2026
 - TCS NQT EXAM 
+
+## 02-04-2026
+- Aptitude pratice questions
