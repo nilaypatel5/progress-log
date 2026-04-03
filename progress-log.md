@@ -42,3 +42,7 @@
 
 ## 02-04-2026
 - Aptitude pratice questions
+
+## 03-04-2026
+- Aptitude pratice questions
+- Verbal Ability practice questions
