@@ -46,3 +46,9 @@
 ## 03-04-2026
 - Aptitude pratice questions
 - Verbal Ability practice questions
+
+## 04-04-2026
+- Aptitude pratice questions
+- Verbal Ability practice questions
+- Logical Reasoning practice questions
+
