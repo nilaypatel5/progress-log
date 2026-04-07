@@ -57,3 +57,6 @@
 
 ## 06-04-2026
 - Started Project Employee Expense Management System(Day-1)
+
+## 07-04-2026
+- Employee Expense Management System Project(Day-2)
