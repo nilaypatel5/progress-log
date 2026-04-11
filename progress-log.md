@@ -70,3 +70,10 @@
 ## 10-04-2026
 - Employee Expense Management System Project(Day-5)
 
+## 10-04-2026
+- Employee Expense Management System Project(Day-5)
+
+## 11-04-2026
+- SAP self learning 
+- Got shortlisted for the SAP interview but was ultimately rejected due to other requirements and limited experience, as per the feedback received.
+
