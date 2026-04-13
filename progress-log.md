@@ -77,3 +77,8 @@
 - SAP self learning 
 - Got shortlisted for the SAP interview but was ultimately rejected due to other requirements and limited experience, as per the feedback received.
 
+## 12-04-2026
+- Little research 
+
+## 13-04-2026
+- SAP self learning 
