@@ -126,3 +126,6 @@
 ## 24-04-2026
 - Udemy course: Learning SAP OData Services, UI5 & Fiori (Using Eclipse & SAP Web IDE) (started in feb)
 - SQL Practice Questions(https://www.sql-practice.com)
+
+## 25-04-2026
+- Udemy course: Learning SAP OData Services, UI5 & Fiori (Using Eclipse & SAP Web IDE) (started in feb)
