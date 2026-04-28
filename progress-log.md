@@ -138,3 +138,9 @@
 - Employee Expense Management System Project(Day-11)
 - Udemy course: Learning SAP OData Services, UI5 & Fiori (Using Eclipse & SAP Web IDE) (started in feb)
 - Applying for Job
+
+## 28-04-2026
+- I’ve restarted the Employee Expense Management System and am now focusing on improving the API and building the frontend using SAP Fiori/UI5. I haven’t pushed updates to GitHub yet, but I’ll organize and track everything properly soon.
+- Employee Expense Management System Project(Day-12)
+- Udemy course: Learning SAP OData Services, UI5 & Fiori (Using Eclipse & SAP Web IDE) (started in feb)
+- Preparing for SAP Interviews Questions and Answers.
