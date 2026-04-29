@@ -144,3 +144,9 @@
 - Employee Expense Management System Project(Day-12)
 - Udemy course: Learning SAP OData Services, UI5 & Fiori (Using Eclipse & SAP Web IDE) (started in feb)
 - Preparing for SAP Interviews Questions and Answers.
+
+## 29-04-2026
+- Udemy course: Learning SAP OData Services, UI5 & Fiori (Using Eclipse & SAP Web IDE) (started in feb).
+- Shortlisted for TCS INTERVIEW.
+- Applying for Job.
+- Preparing for SAP Interviews Questions and Answers.
