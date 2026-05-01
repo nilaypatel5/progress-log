@@ -150,3 +150,7 @@
 - Shortlisted for TCS INTERVIEW.
 - Applying for Job.
 - Preparing for SAP Interviews Questions and Answers.
+
+## 30-04-2026
+- Udemy course: Learning SAP OData Services, UI5 & Fiori (Using Eclipse & SAP Web IDE) (started in feb) [COMPLETED].
+- Preparing for SAP Interviews Questions and Answers.
