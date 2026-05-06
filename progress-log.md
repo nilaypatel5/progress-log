@@ -158,3 +158,22 @@
 ## 01-05-2026
 - TCS APPLICATION FORM MAILED RECEIVED.
 - Preparing for SAP Interviews Questions and Answers.
+
+## 02-05-2026
+- TCS APPLICATION FORM MAILED FILLED.
+- Preparing for TCS Interviews Questions and Answers.
+
+## 03-05-2026
+- Preparing for TCS Interviews Questions and Answers.
+
+## 04-05-2026
+- Went for TCS Interview.
+
+## 05-05-2026
+- Searched for jobs.
+- Did research how to get into SAP domain.
+
+## 06-05-2026
+- SQL practice.
+- Did research how to get into SAP domain.
+
