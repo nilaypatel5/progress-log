@@ -177,3 +177,7 @@
 - SQL practice.
 - Did research how to get into SAP domain.
 
+## 07-05-2026
+- SQL practice.
+- Worked on a practice Microsoft Power BI project focused on Inventory & Sales Analysis Dashboard development to refresh reporting, visualization, and data modeling skills.
+- Technicals Question(CSE Subjects).
