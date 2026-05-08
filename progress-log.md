@@ -181,3 +181,8 @@
 - SQL practice.
 - Worked on a practice Microsoft Power BI project focused on Inventory & Sales Analysis Dashboard development to refresh reporting, visualization, and data modeling skills.
 - Technicals Question(CSE Subjects).
+
+## 08-05-2026
+- General Knowledge Questions.
+- Worked on a practice Microsoft Power BI project focused on Inventory & Sales Analysis Dashboard development to refresh reporting, visualization, and data modeling skills.
+
