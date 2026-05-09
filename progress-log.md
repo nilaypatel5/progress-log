@@ -186,3 +186,5 @@
 - General Knowledge Questions.
 - Worked on a practice Microsoft Power BI project focused on Inventory & Sales Analysis Dashboard development to refresh reporting, visualization, and data modeling skills.
 
+## 09-05-2026
+- Imported CSV data into new tables using Microsoft SQL Server after cleaning duplicates, errors, and blank values, and worked on a practice Microsoft Power BI Inventory & Sales Analysis Dashboard project to strengthen reporting, visualization, and data modeling skills.
