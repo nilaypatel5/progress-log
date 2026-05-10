@@ -188,3 +188,6 @@
 
 ## 09-05-2026
 - Imported CSV data into new tables using Microsoft SQL Server after cleaning duplicates, errors, and blank values, and worked on a practice Microsoft Power BI Inventory & Sales Analysis Dashboard project to strengthen reporting, visualization, and data modeling skills.
+
+## 10-05-2026
+- Doing personal project for personal use.
