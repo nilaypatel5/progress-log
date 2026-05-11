@@ -191,3 +191,7 @@
 
 ## 10-05-2026
 - Doing personal project for personal use.
+
+## 11-05-2026
+- Resume Rebuilding.
+- Microsoft Excel practice with challenges.
