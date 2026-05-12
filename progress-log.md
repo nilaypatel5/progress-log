@@ -195,3 +195,7 @@
 ## 11-05-2026
 - Resume Rebuilding.
 - Microsoft Excel practice with challenges.
+
+## 12-05-2026
+- Research.
+- Microsoft Excel practice with challenges.
