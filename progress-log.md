@@ -199,3 +199,7 @@
 ## 12-05-2026
 - Research.
 - Microsoft Excel practice with challenges.
+
+## 13-05-2026
+- Applying for job.
+- Udemy Course Continuing - Microsoft Excel.
