@@ -207,3 +207,6 @@
 ## 14-05-2026
 - Interview preparation.
 - Udemy Course Continuing - Microsoft Excel.
+
+## 15-05-2026
+- Udemy Course Continuing - Microsoft Excel.
