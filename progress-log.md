@@ -203,3 +203,7 @@
 ## 13-05-2026
 - Applying for job.
 - Udemy Course Continuing - Microsoft Excel.
+
+## 14-05-2026
+- Interview preparation.
+- Udemy Course Continuing - Microsoft Excel.
