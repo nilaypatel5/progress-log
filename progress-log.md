@@ -213,3 +213,6 @@
 
 ## 16-05-2026
 - Udemy Course Continuing - Microsoft Excel.
+
+## 17-05-2026
+- Job Search and Apply.
