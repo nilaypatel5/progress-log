@@ -216,3 +216,7 @@
 
 ## 17-05-2026
 - Job Search and Apply.
+
+## 18-05-2026
+- Udemy Course : SAP HCM Functional Training Concepts Started.
+- Udemy Course Continuing - Microsoft Excel.
