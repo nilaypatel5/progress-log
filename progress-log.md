@@ -219,4 +219,9 @@
 
 ## 18-05-2026
 - Udemy Course : SAP HCM Functional Training Concepts Started.
-- Udemy Course Continuing - Microsoft Excel.
+- Udemy Course Continuing : Microsoft Excel.
+
+## 19-05-2026
+- Udemy Course : SAP HCM Functional Training Concepts.
+- Research.
+- English Speaking practice.
