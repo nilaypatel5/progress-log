@@ -230,3 +230,9 @@
 - Udemy Course : SAP HCM Functional Training Concepts.
 - Resume Optimizing.
 - English Speaking practice.
+
+## 21-05-2026
+- Udemy Course : SAP HCM Functional Training Concepts.
+- Job Search.
+- Resume Optimizing.
+- English Speaking practice.
