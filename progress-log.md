@@ -242,3 +242,8 @@
 - Job Search.
 - Resume Optimizing.
 - English Speaking practice.
+
+## 23-05-2026
+- Udemy Course : SAP HCM Functional Training Concepts(Revision).
+- Job Search and Apply.
+- English Speaking practice.
