@@ -247,3 +247,6 @@
 - Udemy Course : SAP HCM Functional Training Concepts(Revision).
 - Job Search and Apply.
 - English Speaking practice.
+
+## 24-05-2026
+- Udemy Course : PostgreSQL Bootcamp.
