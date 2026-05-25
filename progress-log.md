@@ -250,3 +250,7 @@
 
 ## 24-05-2026
 - Udemy Course : PostgreSQL Bootcamp.
+
+## 25-05-2026
+- Udemy Course : PostgreSQL Bootcamp.
+- Udemy Course : Microsoft Excel Continued.
