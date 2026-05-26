@@ -254,3 +254,9 @@
 ## 25-05-2026
 - Udemy Course : PostgreSQL Bootcamp.
 - Udemy Course : Microsoft Excel Continued.
+
+## 26-05-2026
+- Udemy Course : PostgreSQL Bootcamp.
+- Udemy Course : Microsoft Excel Continued.
+- Working with Excel Workbook from Kaggle for practicing my learnings.
+- Job Apply.
