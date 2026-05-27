@@ -260,3 +260,8 @@
 - Udemy Course : Microsoft Excel Continued.
 - Working with Excel Workbook from Kaggle for practicing my learnings.
 - Job Apply.
+
+## 27-05-2026
+- Udemy Course : PostgreSQL Bootcamp.
+- English Speaking practice.
+- Job Interviews Preparations.
