@@ -265,3 +265,7 @@
 - Udemy Course : PostgreSQL Bootcamp.
 - English Speaking practice.
 - Job Interviews Preparations.
+
+## 28-05-2026
+- Udemy Course : PostgreSQL Bootcamp.
+- English Speaking practice.
