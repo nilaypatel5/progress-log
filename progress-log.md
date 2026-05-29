@@ -269,3 +269,9 @@
 ## 28-05-2026
 - Udemy Course : PostgreSQL Bootcamp.
 - English Speaking practice.
+
+## 29-05-2026
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
+- Udemy Course : PostgreSQL Bootcamp.
+
