@@ -275,3 +275,10 @@
 - English Speaking practice.
 - Udemy Course : PostgreSQL Bootcamp.
 
+## 30-05-2026
+- Udemy Course : PostgreSQL Bootcamp [COMPLETED].
+- Working with Excel Workbook from Kaggle for practicing my learnings.
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
+
+
