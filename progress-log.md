@@ -281,4 +281,10 @@
 - Started learning a book - the confidence gap by Russ Harris.
 - English Speaking practice.
 
+## 31-05-2026
+- Udemy Course : SAP HCM Functional Training Concepts [COMPLETED].
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
+
+
 
