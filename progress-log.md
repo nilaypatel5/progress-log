@@ -286,5 +286,10 @@
 - Started learning a book - the confidence gap by Russ Harris.
 - English Speaking practice.
 
+## 01-06-2026
+- Resume Building/Updating.
+- Youtube - SAP Sucessfactors.
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
 
 
