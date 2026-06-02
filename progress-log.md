@@ -292,4 +292,9 @@
 - Started learning a book - the confidence gap by Russ Harris.
 - English Speaking practice.
 
+## 02-06-2026
+- Microsoft Excel Functions and Formulas practice.
+- Resume Building/Updating.
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
 
