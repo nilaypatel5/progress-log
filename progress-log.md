@@ -298,3 +298,8 @@
 - Started learning a book - the confidence gap by Russ Harris.
 - English Speaking practice.
 
+## 03-06-2026
+- Udemy Course : Microsoft Excel (Started with Excel Macro).
+- Youtube - Microsoft Excel Functions and Formulas practice.
+- English Speaking practice.
+
