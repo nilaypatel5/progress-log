@@ -303,3 +303,6 @@
 - Youtube - Microsoft Excel Functions and Formulas practice.
 - English Speaking practice.
 
+## 04-06-2026
+- Udemy Course : Microsoft Excel (Started with Excel Macro).
+- English Speaking practice.
