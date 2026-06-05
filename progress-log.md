@@ -306,3 +306,7 @@
 ## 04-06-2026
 - Udemy Course : Microsoft Excel (Started with Excel Macro).
 - English Speaking practice.
+
+## 05-06-2026
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
