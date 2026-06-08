@@ -318,3 +318,8 @@
 ## 07-06-2026
 - Started learning a book - the confidence gap by Russ Harris.
 - English Speaking practice.
+
+## 08-06-2026
+- Interview Questions and Answers Preparations.
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
