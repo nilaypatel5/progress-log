@@ -323,3 +323,8 @@
 - Interview Questions and Answers Preparations.
 - Started learning a book - the confidence gap by Russ Harris.
 - English Speaking practice.
+
+## 09-06-2026
+- Interview Questions and Answers Preparations.
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
