@@ -328,3 +328,10 @@
 - Interview Questions and Answers Preparations.
 - Started learning a book - the confidence gap by Russ Harris.
 - English Speaking practice.
+
+## 10-06-2026
+- Job Applied.
+- SAP SRM (CONCEPTS REVISION).
+- Interview Questions and Answers Preparations.
+- English Speaking practice.
+
