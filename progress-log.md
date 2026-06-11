@@ -335,3 +335,9 @@
 - Interview Questions and Answers Preparations.
 - English Speaking practice.
 
+## 11-06-2026
+- Job Applied Conversations With HR.
+- Interview Questions and Answers Preparations.
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
+
