@@ -355,3 +355,7 @@
 - Started learning a book - the confidence gap by Russ Harris.
 - English Speaking practice.
 
+## 15-06-2026
+- Udemy Course : The Ultimate SAP S/4HANA Course 2026: From Zero to Expert (Started).
+- Started learning a book - the confidence gap by Russ Harris.
+- English Speaking practice.
