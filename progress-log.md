@@ -363,3 +363,9 @@
 ## 16-06-2026
 - Udemy Course : The Ultimate SAP S/4HANA Course 2026: From Zero to Expert.
 - English Speaking practice.
+
+## 17-06-2026
+- Planning a Personal Project.
+- Udemy Course : The Ultimate SAP S/4HANA Course 2026: From Zero to Expert.
+- English Speaking practice.
+
