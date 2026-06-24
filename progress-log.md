@@ -398,3 +398,7 @@
 - Interview Scheduled Tommorow for Gemini Consulting & Services.
 - Interview Questions and Answers.
 - Youtube Videos.
+
+## 24-06-2026
+- Interview for Gemini Consulting & Services given.
+- Interview Questions and Answers.
