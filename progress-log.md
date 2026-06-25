@@ -402,3 +402,8 @@
 ## 24-06-2026
 - Interview for Gemini Consulting & Services given.
 - Interview Questions and Answers.
+
+## 25-06-2026
+- Interview for Gemini Consulting & Services - Technical Round PASSED.
+- Interview for Gemini Consulting & Services - Management Round Tommorow.
+- Interview Questions and Answers.
