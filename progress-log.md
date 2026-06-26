@@ -407,3 +407,7 @@
 - Interview for Gemini Consulting & Services - Technical Round PASSED.
 - Interview for Gemini Consulting & Services - Management Round Tommorow.
 - Interview Questions and Answers.
+
+## 26-06-2026
+- Interview for Gemini Consulting & Services - Management Round given.
+- Interview Questions and Answers.
