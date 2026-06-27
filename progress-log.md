@@ -411,3 +411,7 @@
 ## 26-06-2026
 - Interview for Gemini Consulting & Services - Management Round given.
 - Interview Questions and Answers.
+
+## 27-06-2026
+- Job Search.
+- Research about SAP.
