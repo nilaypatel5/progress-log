@@ -415,3 +415,7 @@
 ## 27-06-2026
 - Job Search.
 - Research about SAP.
+
+## 28-06-2026
+- IFFCO ONLINE EXAM PREPARATION.
+
