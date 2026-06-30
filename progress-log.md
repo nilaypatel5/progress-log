@@ -422,3 +422,8 @@
 ## 29-06-2026
 - IFFCO ONLINE EXAM PREPARATION.
 - Personal project work.
+
+## 30-06-2026
+- IFFCO ONLINE EXAM EXAM POSTPONED.
+- IFFCO ONLINE EXAM PREPARATION.
+- Udemy Course : The Ultimate SAP S/4HANA Course 2026: From Zero to Expert [PENDING].
