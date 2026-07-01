@@ -427,3 +427,8 @@
 - IFFCO ONLINE EXAM EXAM POSTPONED.
 - IFFCO ONLINE EXAM PREPARATION.
 - Udemy Course : The Ultimate SAP S/4HANA Course 2026: From Zero to Expert [PENDING].
+
+## 01-07-2026
+- Gemini Consulting & Services Update Feedback : positive , told to practice on SAP server if possible and to learn about the TM and PAYROLL.
+- SAP VISTA : SERVER ACESS TAKEN (SAP HCM) BUT HAVE SOME ISSUES WITH AUTHORIZATION.
+- SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
