@@ -462,3 +462,8 @@
 - SAP HCM Payroll with SAP HCM on S/4HANA (SAP LEARNING)
 - SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
 - Search jobs.
+
+## 08-07-2026
+- Organizational Management in SAP HCM for S/4HANA
+- SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
+- Search jobs.
