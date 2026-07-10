@@ -472,3 +472,7 @@
 - Payroll Concepts SAP HCM.
 - SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
 - Search jobs.
+
+## 10-07-2026
+- SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
+- Search jobs.
