@@ -495,3 +495,8 @@
 - SAP SERVER PRACTICE.
 - English Speaking.
 - SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
+
+## 15-07-2026
+- Interview Preparation.
+- Interview confirmation for further process discussion.
+- SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
