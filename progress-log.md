@@ -500,3 +500,7 @@
 - Interview Preparation.
 - Interview confirmation for further process discussion.
 - SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
+
+## 16-07-2026
+- Interview confirmation for further process discussion [I DECLINE THE OFFER DUE TO SOME REASONS].
+- SAP HCM LEARNING FROM GOOGLE AND YOUTUBE.
