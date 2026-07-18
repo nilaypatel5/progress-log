@@ -508,3 +508,7 @@
 ## 17-07-2026
 - Search Jobs.
 - SAP HCM LEARNING AND SERVER PRACTICE.
+
+## 18-07-2026
+- Search Jobs.
+- English Speaking practice.
