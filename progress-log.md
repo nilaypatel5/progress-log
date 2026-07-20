@@ -516,3 +516,7 @@
 ## 19-07-2026
 - Search Jobs.
 - Thinking again what i am doing wrong now, what things need to be improved from myside and representation.
+
+## 20-07-2026
+- Search Jobs.
+- SAP HCM SERVER PRACTICE UNDERSTANDING CONCEPTS.
