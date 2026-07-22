@@ -524,3 +524,7 @@
 ## 21-07-2026
 - GSSSB Syllabus and Preparation strategies.
 - SAP HCM SERVER PRACTICE UNDERSTANDING CONCEPTS.
+
+## 22-07-2026
+- Search Jobs.
+- Work regarding Personal Documents.
