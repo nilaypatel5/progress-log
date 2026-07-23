@@ -528,3 +528,7 @@
 ## 22-07-2026
 - Search Jobs.
 - Work regarding Personal Documents.
+
+## 23-07-2026
+- Search Jobs and Apply.
+- SAP HCM OM CONCEPTS.
