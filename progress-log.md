@@ -540,3 +540,7 @@
 ## 25-07-2026
 - Search Jobs.
 - English Speaking Practice.
+
+## 26-07-2026
+- Personality Development Strategies.
+- English Speaking Practice.
