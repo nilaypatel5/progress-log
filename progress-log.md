@@ -544,3 +544,8 @@
 ## 26-07-2026
 - Personality Development Strategies.
 - English Speaking Practice.
+
+## 27-07-2026
+- Apititude questions and answers practice.
+- English Speaking Practice.
+
