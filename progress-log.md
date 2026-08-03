@@ -573,3 +573,7 @@
 - Search Jobs.
 - Made a list for job apply based im Gujarat.
 
+## 03-08-2026
+- Resume Improvments.
+- Search JoBs and applied based in Gujarat.
+- GSSSB EXAM PREPARATION(BME).
