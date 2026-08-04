@@ -577,3 +577,9 @@
 - Resume Improvments.
 - Search JoBs and applied based in Gujarat.
 - GSSSB EXAM PREPARATION(BME).
+
+## 04-08-2026
+- Resume Improvments.
+- Search JoBs and applied based in Gujarat.
+- English Speaking Practice.
+- SAP HCM OM CONCEPTS.
